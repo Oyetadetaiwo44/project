@@ -28,7 +28,7 @@ body {
   width: 300px;
   height: 230px;
 
-  background-image: url("/images/image-product-desktop.jpg");
+  background-image: url("images/image-product-desktop.jpg");
   background-size: cover;
   background-position: center;
 }
